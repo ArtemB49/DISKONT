@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_barcode"
+        android:icon="@drawable/ic_credit_card_black_24dp"
+        android:title="@string/nav_item_card" />
+
+    <item
+        android:id="@+id/navigation_statistics"
+        android:icon="@drawable/ic_show_chart_black_24dp"
+        android:title="@string/nav_item_stat" />
+
+    <item
+        android:id="@+id/navigation_list"
+        android:icon="@drawable/ic_local_gas_station_black_24dp"
+        android:title="@string/nav_item_purchases" />
+
+    <item
+        android:id="@+id/navigation_settings"
+        android:icon="@drawable/ic_settings_applications_black_24dp"
+        android:title="@string/nav_item_settings" />
+
+
+
+</menu>

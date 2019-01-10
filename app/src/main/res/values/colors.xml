@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#C62828</color>
+    <color name="colorAccent">#9E9E9E</color>
+    <color name="splashBackground">#FFFFFF</color>
+    <color name="tv_card_number_text">#FFEB3B</color>
+    <color name="gradient_start">#FFFFFF</color>
+    <color name="gradient_end">#3F51B5</color>
+    <color name="secondaryButtonPrimary">#D32F2F</color>
+    <color name="secondaryButtonAccent">#EF5350</color>
+
+</resources>

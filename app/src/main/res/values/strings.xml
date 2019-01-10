@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">АСУ АГЗС</string>
+    <string name="button_registration_text">Зарегистрироваться</string>
+    <string name="action_settings">Settings</string>
+    <string name="hint_name">Full Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_sign_up">Sign Up</string>
+    <string name="err_msg_first_name">Введите свое имя</string>
+    <string name="err_msg_last_name">Введите свою фамилию</string>
+    <string name="err_msg_father_name">Введите свое отчество</string>
+    <string name="err_msg_phone">Введите номер телефона</string>
+    <string name="card_number_hint">Номер карты</string>
+    <string name="btn_code_text">Получить код</string>
+    <string name="edt_phone_hint">Телефон</string>
+    <string name="edt_father_hint">Отчество</string>
+    <string name="edt_first_hint">Имя</string>
+    <string name="edt_last_hint">Фамилия</string>
+    <string name="edt_code_hint">Код из смс</string>
+    <string name="btn_scan_ean13_text">Сканировать карту</string>
+    <string name="btn_next_text">Далее</string>
+    <string name="btn_back_text">Назад</string>
+    <string name="title_start">Введите свои данные</string>
+    <string name="btn_send_code_text">Отправить</string>
+    <string name="title_activity_navigation">АСУ АГЗС</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="img_qr_code_description">QR Code</string>
+    <string name="img_ean_code_description">Barcode EAN</string>
+    <string name="nav_item_card">Карта</string>
+    <string name="nav_item_stat">Статистика</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="stat_day">День</string>
+    <string name="tv_turnover_text">Обороты по карте</string>
+    <string name="tv_week_text">Неделя</string>
+    <string name="tv_month_text">Месяц</string>
+    <string name="tv_year_text">Год</string>
+    <string name="nav_item_purchases">Заправки</string>
+    <string name="tv_text_sum">Сумма</string>
+    <string name="tv_text_price">Цена за литр</string>
+    <string name="tv_text_count">Литры</string>
+    <string name="nav_item_settings">Настройки</string>
+</resources>

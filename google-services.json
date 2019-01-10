@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "43474097469",
+    "firebase_url": "https://agzs-discont-6a178.firebaseio.com",
+    "project_id": "agzs-discont-6a178",
+    "storage_bucket": "agzs-discont-6a178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43474097469:android:17bdda2b29b4dd29",
+        "android_client_info": {
+          "package_name": "com.belyaev.artem.agzs_diskont"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43474097469-gpv4d1h3s6deaqgcismn3r7nu30hm9c3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0s6kM_JAqTMIEtsMtbohvMdfy64VthxE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
